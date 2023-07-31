@@ -1,0 +1,30 @@
+.text{
+	background-color: darkgrey;
+	text-align: center;
+	/*width: 1200px;
+	height: 500px;*/
+}
+.text-a{
+	text-decoration: none;
+	border: 1px solid grey;
+	border-radius: 8px;
+	display: inline-block;
+	box-sizing: border-box;
+	background-color: grey;
+	color: white;
+	padding: 16px 24px;
+}
+.text-block{
+	background-color: white;
+	width: 1200px;
+	margin: 50px auto;
+}
+.text-block-item{
+	text-align: center;
+	border: 1px solid black;
+	width: 220px;
+	height: 320px;
+	padding: 16px 24px;
+	float: left;
+	margin: 10px 20px;
+}
